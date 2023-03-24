@@ -1,1 +1,1 @@
-# [Click Me](https://templar-command0.github.io/personal-site)
+# [Click Me](https://templar-ajay.github.io/personal-site/)
